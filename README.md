@@ -6,8 +6,8 @@ Juego del **Ahorcado** desarrollado en Java como parte de un taller universitari
  
 ## 👥 Integrantes
  
-| Nombre | GitHub |
-|--------|--------|
+| Nombre |
+|--------|
 | Juan José Alzate Escudero | 
 | Juan Pablo Velez Lopera | 
  
