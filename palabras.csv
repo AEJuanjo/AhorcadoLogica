@@ -1,0 +1,61 @@
+categoria,palabra,pista
+ANIMALES,elefante,mamifero grande de orejas grandes y trompa
+ANIMALES,leon,felino salvaje rey de la sabana africana
+ANIMALES,nutria,animal acuatico con cola larga y pelaje suave
+ANIMALES,jaguar,felino manchado nativo de America
+ANIMALES,delfin,mamifero marino muy inteligente
+ANIMALES,tortuga,reptil con caparazon duro en la espalda
+ANIMALES,mariposa,insecto con alas de colores que sale de una crisalida
+ANIMALES,cocodrilo,reptil grande que vive en rios y pantanos
+ANIMALES,pingüino,ave que no vuela y vive en el polo sur
+ANIMALES,camello,mamifero con jorobas que vive en el desierto
+TECNOLOGIA,computadora,dispositivo electronico para procesar informacion
+TECNOLOGIA,internet,red mundial de comunicacion digital
+TECNOLOGIA,teclado,periferico de entrada con teclas alfanumericas
+TECNOLOGIA,procesador,chip cerebro de una computadora
+TECNOLOGIA,algoritmo,secuencia de pasos para resolver un problema
+TECNOLOGIA,software,conjunto de programas de una computadora
+TECNOLOGIA,hardware,componentes fisicos de un sistema informatico
+TECNOLOGIA,monitor,pantalla de visualizacion de una computadora
+TECNOLOGIA,servidor,computadora que provee servicios a otras
+TECNOLOGIA,bluetooth,tecnologia inalambrica de corto alcance
+PAISES,colombia,pais suramericano banado por dos oceanos
+PAISES,guatemala,pais centroamericano conocido por sus volcanes
+PAISES,japon,pais asiatico insular famoso por la tecnologia y el anime
+PAISES,australia,continente y pais del hemisferio sur con canguros
+PAISES,egipto,pais africano famoso por las piramides y el rio Nilo
+PAISES,noruega,pais escandinavo con fiordos y auroras boreales
+PAISES,brasil,pais mas grande de sudamerica con el amazonas
+PAISES,canada,pais norteamericano con muchos lagos y bosques
+PAISES,italia,pais europeo con forma de bota famoso por la pizza
+PAISES,marruecos,pais del norte de africa con desierto del sahara
+COLOMBIA,cartagena,ciudad costera colombiana con murallas coloniales
+COLOMBIA,medellin,ciudad colombiana conocida como la ciudad de la eterna primavera
+COLOMBIA,bucaramanga,ciudad colombiana llamada la ciudad bonita
+COLOMBIA,barranquilla,ciudad colombiana famosa por su carnaval
+COLOMBIA,cumbia,ritmo musical tipico de la costa caribe colombiana
+COLOMBIA,arepa,alimento tipico colombiano hecho de maiz
+COLOMBIA,aguardiente,bebida alcoholica tipica de colombia hecha de anis
+COLOMBIA,palenque,primer pueblo libre de esclavos en america
+COLOMBIA,macondo,pueblo ficticio de cien anos de soledad de Garcia Marquez
+COLOMBIA,sombrero,accesorio tipico del folclor colombiano de vueltiao
+PROGRAMACION,variable,espacio en memoria para almacenar un valor
+PROGRAMACION,bucle,estructura que repite instrucciones varias veces
+PROGRAMACION,funcion,bloque de codigo reutilizable con nombre propio
+PROGRAMACION,arreglo,estructura de datos con elementos del mismo tipo
+PROGRAMACION,compilador,programa que traduce codigo fuente a ejecutable
+PROGRAMACION,depurar,proceso de encontrar y corregir errores en codigo
+PROGRAMACION,herencia,mecanismo de POO donde una clase extiende otra
+PROGRAMACION,recursion,funcion que se llama a si misma para resolver problemas
+PROGRAMACION,excepcion,error en tiempo de ejecucion que puede ser manejado
+PROGRAMACION,interfaz,contrato que define metodos que una clase debe implementar
+SECRETOS,DARTHVADER,villano icónico de Star Wars con traje negro y respiracion
+SECRETOS,KONAMI,famoso codigo de videojuegos arriba arriba abajo abajo
+SECRETOS,MATRIX,pelicula donde la realidad es una simulacion computacional
+SECRETOS,TARDIS,maquina del tiempo en forma de cabina de policia azul
+SECRETOS,ZELDA,princesa del reino de Hyrule en la saga de Nintendo
+SECRETOS,GANDALF,mago de la tierra media que dice no pasaras
+SECRETOS,HOBBIT,ser pequeno de pies peludos que vive en la comarca
+SECRETOS,SKYNET,inteligencia artificial antagonista de la saga Terminator
+SECRETOS,POKEMON,criaturas que se capturan en pokebolas para batallar
+SECRETOS,ENDGAME,pelicula donde los vengadores viajan en el tiempo
