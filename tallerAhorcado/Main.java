@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Cargar palabras desde el CSV
-        List<Palabra> palabras = CargadorCSV.cargarPalabras("palabras.csv");
+        List<Palabra> palabras = CargadorCSV.cargarPalabras("C:\\Users\\Pablo\\Desktop\\AhorcadoLogica\\tallerAhorcado\\palabras.csv");
 
         if (palabras.isEmpty()) {
             System.out.println(Colores.ROJO + "[ERROR] No se cargaron palabras. Verifique palabras.csv" + Colores.RESET);
